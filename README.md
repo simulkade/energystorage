@@ -1,2 +1,2 @@
-# energystorage
-Material for the subsurface energy and fluid storage and extraction at DTU
+# Subsurface Energy Storage
+Material for the Subsurface Energy and Fluid Storage and Extraction (SEFSE) at DTU
