@@ -130,7 +130,51 @@ x=XL,\,\,t=\frac{\tau L\varphi}{u},
 
 \begin_inset Formula 
 \[
-\frac{\textrm{d}X}{\textrm{d}\tau}=\frac{\textrm{d}f_{w}}{\textrm{d}S_{w}},
+\left(\frac{\textrm{d}X}{\textrm{d}\tau}\right)_{S_{w}}=\frac{\textrm{d}f_{w}}{\textrm{d}S_{w}},
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+X=\frac{\textrm{d}f_{w}}{\textrm{d}S_{w}}\tau
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Radial:
+\begin_inset Formula 
+\[
+\frac{\partial S_{w}}{\partial t}+\frac{u}{r\varphi}\frac{\partial\left(rf_{w}\right)}{\partial r}=0
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\frac{\partial S_{w}}{\partial t}+\frac{u}{r\varphi}\frac{\partial\left(rf_{w}\right)}{\partial r}=0
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\frac{\partial S_{w}}{\partial t}+\frac{u}{r\varphi}f_{w}+\frac{u}{\varphi}\frac{\partial f_{w}}{\partial r}=0
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\frac{\partial S_{w}}{\partial t}+\frac{u}{r\varphi}f_{w}+\frac{u}{\varphi}\frac{df_{w}}{dr}\frac{\partial S_{w}}{\partial r}=0
 \]
 
 \end_inset
