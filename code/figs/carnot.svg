@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="70.625832mm"
+   height="75.202316mm"
+   viewBox="0 0 70.625832 75.202316"
+   version="1.1"
+   id="svg2093"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="carnot.svg">
+  <defs
+     id="defs2087">
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path895"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect874"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1190"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1188"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect878"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1190-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1188-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:#333333;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect878-6"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="334.89471"
+     inkscape:cy="-260.74254"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1875"
+     inkscape:window-height="1055"
+     inkscape:window-x="45"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata2090">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.9966088,-4.6428901)">
+    <g
+       transform="translate(-3.5140942,-14.965501)"
+       id="g1927"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         y="42.622021"
+         x="19.654762"
+         height="29.104168"
+         width="37.797615"
+         id="rect834"
+         style="opacity:0.57399998;fill:#00ffff;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text838"
+         y="23.723213"
+         x="22.67857"
+         style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan840"
+           style="font-size:5.64444447px;stroke-width:0.26458332"
+           y="23.723213"
+           x="22.67857"
+           sodipodi:role="line">Heat source</tspan><tspan
+           id="tspan844"
+           style="font-size:5.64444447px;stroke-width:0.26458332"
+           y="30.778769"
+           x="22.67857"
+           sodipodi:role="line">at T<tspan
+   id="tspan1895"
+   style="font-size:64.99999762%;baseline-shift:sub">h</tspan></tspan><tspan
+           id="tspan1892"
+           style="font-size:5.64444447px;stroke-width:0.26458332"
+           y="37.834324"
+           x="22.67857"
+           sodipodi:role="line">Q<tspan
+   id="tspan1897"
+   style="font-size:64.99999762%;baseline-shift:sub">c</tspan> </tspan></text>
+      <text
+         id="text838-3"
+         y="79.518753"
+         x="7.1937542"
+         style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan840-6"
+           style="font-size:5.64444447px;stroke-width:0.26458332"
+           y="79.518753"
+           x="7.1937542"
+           sodipodi:role="line">Heat sink</tspan><tspan
+           id="tspan844-7"
+           style="font-size:5.64444447px;stroke-width:0.26458332"
+           y="86.57431"
+           x="7.1937542"
+           sodipodi:role="line">at T<tspan
+   id="tspan1903"
+   style="font-size:64.99999762%;baseline-shift:sub">c</tspan></tspan><tspan
+           id="tspan1899"
+           style="font-size:5.64444447px;stroke-width:0.26458332"
+           y="93.629868"
+           x="7.1937542"
+           sodipodi:role="line">Q<tspan
+   id="tspan1901"
+   style="font-size:64.99999762%;baseline-shift:sub">c</tspan></tspan></text>
+      <path
+         inkscape:original-d="m 39.309524,25.991071 c 2.65e-4,5.039418 2.65e-4,10.079101 0,15.119048"
+         inkscape:path-effect="#path-effect874"
+         inkscape:connector-curvature="0"
+         id="path872"
+         d="m 39.309524,25.991071 c 0,5.039418 0,10.079101 0,15.119048"
+         style="fill:#ff0000;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send)" />
+      <path
+         inkscape:original-d="m 39.309524,71.726189 c 2.64e-4,6.047356 2.64e-4,12.094974 0,18.142857"
+         inkscape:path-effect="#path-effect878"
+         inkscape:connector-curvature="0"
+         id="path876"
+         d="m 39.309524,71.726189 c 0,6.047356 0,12.094974 0,18.142857"
+         style="fill:#0000ff;stroke:#0000ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1190)" />
+      <text
+         id="text1392"
+         y="50.181545"
+         x="28.348213"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:5.64444447px;stroke-width:0.26458332"
+           y="50.181545"
+           x="28.348213"
+           id="tspan1390"
+           sodipodi:role="line">Carnot</tspan><tspan
+           id="tspan1394"
+           style="font-size:5.64444447px;stroke-width:0.26458332"
+           y="63.410713"
+           x="28.348213"
+           sodipodi:role="line">Engine</tspan></text>
+      <path
+         inkscape:original-d="m 56.422991,57.741073 c 6.047361,-2.6e-4 12.094971,-2.6e-4 18.142861,0"
+         inkscape:path-effect="#path-effect878-6"
+         inkscape:connector-curvature="0"
+         id="path876-2"
+         d="m 56.422991,57.741073 c 6.047361,0 12.094971,0 18.142861,0"
+         style="fill:#333333;stroke:#333333;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1190-3)" />
+      <text
+         id="text838-3-9"
+         y="66.376434"
+         x="63.140724"
+         style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1886"
+           style="font-size:5.64444447px;stroke-width:0.26458332"
+           y="66.376434"
+           x="63.140724"
+           sodipodi:role="line">Work</tspan><tspan
+           id="tspan1890"
+           style="font-style:italic;font-size:5.64444447px;stroke-width:0.26458332"
+           y="73.431992"
+           x="63.140724"
+           sodipodi:role="line">W</tspan></text>
+    </g>
+  </g>
+</svg>
