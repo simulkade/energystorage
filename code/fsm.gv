@@ -1,0 +1,12 @@
+digraph "Process flow diagram" {
+	rankdir=LR size="6,4"
+	node [shape=none]
+	N2 [label=Nitrogen]
+	H2 [label=Hydrogen]
+	NH3
+	node [shape=rectangle]
+	HP [label="Haber Process"]
+	N2 -> HP [label=N2]
+	H2 -> HP [label=H2]
+	HP -> NH3 [label=Ammonia]
+}
