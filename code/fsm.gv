@@ -1,12 +1,20 @@
 digraph "Process flow diagram" {
-	rankdir=LR size="6,4"
+	rankdir=LR size="10,6"
 	node [shape=none]
 	N2 [label=Nitrogen]
 	H2 [label=Hydrogen]
+	Air
 	NH3
+	Water
 	node [shape=rectangle]
 	HP [label="Haber Process"]
+	CD [label="Cryogenic distillation"]
+	Electrolysis
 	N2 -> HP [label=N2]
 	H2 -> HP [label=H2]
 	HP -> NH3 [label=Ammonia]
+	Air -> CD
+	CD -> N2
+	Water -> Electrolysis
+	Electrolysis -> H2
 }
